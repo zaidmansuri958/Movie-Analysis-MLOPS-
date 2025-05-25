@@ -1,0 +1,8 @@
+pandas
+numpy
+Flask
+mlflow
+dvc
+scikit-learn
+nltk
+xgboost

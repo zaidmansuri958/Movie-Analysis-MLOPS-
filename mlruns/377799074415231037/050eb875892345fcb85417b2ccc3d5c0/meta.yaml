@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/050eb875892345fcb85417b2ccc3d5c0/artifacts
+end_time: 1748206863950
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 050eb875892345fcb85417b2ccc3d5c0
+run_name: MultinomiaNB with TF-IDF
+run_uuid: 050eb875892345fcb85417b2ccc3d5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206859143
+status: 3
+tags: []
+user_id: ZAID

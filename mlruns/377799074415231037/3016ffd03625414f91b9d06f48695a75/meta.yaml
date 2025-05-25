@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/3016ffd03625414f91b9d06f48695a75/artifacts
+end_time: 1748206884652
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 3016ffd03625414f91b9d06f48695a75
+run_name: RandomForest with BoW
+run_uuid: 3016ffd03625414f91b9d06f48695a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206877721
+status: 3
+tags: []
+user_id: ZAID

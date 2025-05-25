@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/3d1219099de84f848b6e734755899a60/artifacts
+end_time: 1748206849456
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 3d1219099de84f848b6e734755899a60
+run_name: LogisticRegression with BoW
+run_uuid: 3d1219099de84f848b6e734755899a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206838778
+status: 3
+tags: []
+user_id: ZAID

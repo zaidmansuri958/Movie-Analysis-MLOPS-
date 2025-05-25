@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/15b899818c4242e4a4e9b8420365cb8f/artifacts
+end_time: 1748206890243
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 15b899818c4242e4a4e9b8420365cb8f
+run_name: RandomForest with TF-IDF
+run_uuid: 15b899818c4242e4a4e9b8420365cb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206884662
+status: 3
+tags: []
+user_id: ZAID

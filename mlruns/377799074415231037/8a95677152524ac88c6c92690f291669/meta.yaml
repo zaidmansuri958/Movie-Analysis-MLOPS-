@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/8a95677152524ac88c6c92690f291669/artifacts
+end_time: 1748206870300
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 8a95677152524ac88c6c92690f291669
+run_name: XGBoost with BoW
+run_uuid: 8a95677152524ac88c6c92690f291669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206863956
+status: 3
+tags: []
+user_id: ZAID

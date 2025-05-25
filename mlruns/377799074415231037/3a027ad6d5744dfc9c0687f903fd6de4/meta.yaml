@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/3a027ad6d5744dfc9c0687f903fd6de4/artifacts
+end_time: 1748206897206
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 3a027ad6d5744dfc9c0687f903fd6de4
+run_name: GradientBoosting with BoW
+run_uuid: 3a027ad6d5744dfc9c0687f903fd6de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748206890249
+status: 3
+tags: []
+user_id: ZAID

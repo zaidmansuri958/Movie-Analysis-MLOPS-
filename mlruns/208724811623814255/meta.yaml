@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/208724811623814255
+creation_time: 1748201760181
+experiment_id: '208724811623814255'
+last_update_time: 1748201760181
+lifecycle_stage: active
+name: LogisticRegression Baseline
