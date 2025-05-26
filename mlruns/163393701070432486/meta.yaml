@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/163393701070432486
+creation_time: 1748237985284
+experiment_id: '163393701070432486'
+last_update_time: 1748237985284
+lifecycle_stage: active
+name: LoR Hyperparameter Tuning

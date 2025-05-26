@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/163393701070432486/6c6640e597414fab972ea1eaf4275397/artifacts
+end_time: 1748237994350
+entry_point_name: ''
+experiment_id: '163393701070432486'
+lifecycle_stage: active
+run_id: 6c6640e597414fab972ea1eaf4275397
+run_name: 'LR with params : {''C'': 10, ''penalty'': ''l2'', ''solver'': ''liblinear''}'
+run_uuid: 6c6640e597414fab972ea1eaf4275397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748237994248
+status: 3
+tags: []
+user_id: ZAID

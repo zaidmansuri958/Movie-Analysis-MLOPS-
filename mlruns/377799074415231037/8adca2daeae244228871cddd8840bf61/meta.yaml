@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/377799074415231037/8adca2daeae244228871cddd8840bf61/artifacts
+end_time: 1748237840464
+entry_point_name: ''
+experiment_id: '377799074415231037'
+lifecycle_stage: active
+run_id: 8adca2daeae244228871cddd8840bf61
+run_name: useful-swan-453
+run_uuid: 8adca2daeae244228871cddd8840bf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748237835781
+status: 4
+tags: []
+user_id: ZAID

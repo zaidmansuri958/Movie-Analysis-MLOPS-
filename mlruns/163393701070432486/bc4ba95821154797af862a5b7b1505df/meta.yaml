@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/163393701070432486/bc4ba95821154797af862a5b7b1505df/artifacts
+end_time: 1748238001696
+entry_point_name: ''
+experiment_id: '163393701070432486'
+lifecycle_stage: active
+run_id: bc4ba95821154797af862a5b7b1505df
+run_name: marvelous-slug-568
+run_uuid: bc4ba95821154797af862a5b7b1505df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748237989508
+status: 3
+tags: []
+user_id: ZAID
