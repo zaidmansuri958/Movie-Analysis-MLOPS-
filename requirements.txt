@@ -6,3 +6,4 @@ dvc
 scikit-learn
 nltk
 xgboost
+-e .

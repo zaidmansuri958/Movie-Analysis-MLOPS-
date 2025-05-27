@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372
+creation_time: 1748334662737
+experiment_id: '599606893071908372'
+last_update_time: 1748334662737
+lifecycle_stage: active
+name: dvc-pipeline

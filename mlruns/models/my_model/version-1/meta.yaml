@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748344033822
+current_stage: Staging
+description: null
+last_updated_timestamp: 1748344033871
+name: my_model
+run_id: 4aa97636e6b74b8bbf9c4ab360b7407b
+run_link: null
+source: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372/4aa97636e6b74b8bbf9c4ab360b7407b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372/4aa97636e6b74b8bbf9c4ab360b7407b/artifacts/model
+user_id: null
+version: 1

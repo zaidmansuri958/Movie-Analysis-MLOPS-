@@ -1,0 +1,3 @@
+2025-05-27 13:37:18,456 - root - INFO - Applying BOW
+2025-05-27 13:37:18,456 - root - ERROR - Error during bag of words transformation : CountVectorizer.__init__() takes 1 positional argument but 2 were given
+2025-05-27 13:37:18,456 - root - ERROR - Failed to complete the feature engineering : CountVectorizer.__init__() takes 1 positional argument but 2 were given

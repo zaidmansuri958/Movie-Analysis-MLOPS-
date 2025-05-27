@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372/02b17c3ce4bb4de3989ba3464597ebe1/artifacts
+end_time: 1748334698089
+entry_point_name: ''
+experiment_id: '599606893071908372'
+lifecycle_stage: active
+run_id: 02b17c3ce4bb4de3989ba3464597ebe1
+run_name: enthused-elk-227
+run_uuid: 02b17c3ce4bb4de3989ba3464597ebe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748334698021
+status: 3
+tags: []
+user_id: ZAID

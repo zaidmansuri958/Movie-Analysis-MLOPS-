@@ -1,0 +1,3 @@
+2025-05-27 14:06:24,938 - root - INFO - Model loaded
+2025-05-27 14:06:24,944 - root - INFO - Data loaded from the ./data/processed/test_bow.csv
+2025-05-27 14:06:24,957 - root - INFO - Metrics saved to reports/metrics.json

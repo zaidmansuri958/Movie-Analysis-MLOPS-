@@ -1,0 +1,3 @@
+2025-05-27 13:51:42,239 - root - INFO - Applying BOW
+2025-05-27 13:51:42,302 - root - ERROR - Error during bag of words transformation : [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-27 13:51:42,302 - root - ERROR - Failed to complete the feature engineering : [Errno 2] No such file or directory: 'models/vectorizer.pkl'

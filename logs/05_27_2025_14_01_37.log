@@ -1,0 +1,2 @@
+2025-05-27 14:01:38,087 - root - ERROR - Unexpected error occurred while loading the model
+2025-05-27 14:01:38,087 - root - ERROR - Failed to complete the model evaluation : file must have 'read' and 'readline' attributes

@@ -4,7 +4,7 @@ import os
 from sklearn.model_selection import train_test_split
 import yaml
 import logging
-from src.connections import s3_connection
+# from src.connections import s3_connection
 
 def load_params(params_path):
     try:
@@ -61,7 +61,7 @@ def save_data(train_data,test_data,data_path):
 
 def main():
     try:
-        params=load_params("params.yml")
+        params=load_params("params.yaml")
         test_size=params["data_ingestion"]["test_size"]
         df=load_data(data_url="https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/data.csv")
         final_df=preprocess_data(df)

@@ -1,0 +1,4 @@
+2025-05-27 13:57:17,953 - root - INFO - Applying BOW
+2025-05-27 13:57:18,024 - root - INFO - bag of worlds applied and data transformed
+2025-05-27 13:57:18,031 - root - INFO - Data saved to ./data\processed\train_bow.csv
+2025-05-27 13:57:18,036 - root - INFO - Data saved to ./data\processed\test_bow.csv

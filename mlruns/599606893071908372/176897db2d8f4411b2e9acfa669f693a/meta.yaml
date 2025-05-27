@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372/176897db2d8f4411b2e9acfa669f693a/artifacts
+end_time: 1748334829011
+entry_point_name: ''
+experiment_id: '599606893071908372'
+lifecycle_stage: active
+run_id: 176897db2d8f4411b2e9acfa669f693a
+run_name: bustling-bug-376
+run_uuid: 176897db2d8f4411b2e9acfa669f693a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748334828755
+status: 3
+tags: []
+user_id: ZAID

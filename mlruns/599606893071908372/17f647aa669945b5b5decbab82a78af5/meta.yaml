@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ZAID/Desktop/MLops/Movie-Analysis-MLOPS/mlruns/599606893071908372/17f647aa669945b5b5decbab82a78af5/artifacts
+end_time: 1748334664074
+entry_point_name: ''
+experiment_id: '599606893071908372'
+lifecycle_stage: active
+run_id: 17f647aa669945b5b5decbab82a78af5
+run_name: unruly-mouse-861
+run_uuid: 17f647aa669945b5b5decbab82a78af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748334663984
+status: 3
+tags: []
+user_id: ZAID
